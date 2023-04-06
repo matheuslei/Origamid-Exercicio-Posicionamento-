@@ -10,7 +10,7 @@ Exercício proposto:
 
 
 
-Executado:
+Executado: https://origamid-exercicio-posicionamento-refatorando.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/65515537/229494256-d5fffa44-b862-47d4-b0fd-f692fb9dcce5.png)
 
